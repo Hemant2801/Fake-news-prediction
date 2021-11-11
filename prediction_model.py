@@ -28,7 +28,7 @@ from sklearn.metrics import accuracy_score
 # In[3]:
 
 
-df = pd.read_csv('C:/Users/Hemant/jupyter_codes/ML Project 1/fake news prediction/data.csv')
+df = pd.read_csv('C:/Users/Hemant/jupyter_codes/ML Project 1/fake news prediction/train.csv')
 
 
 # In[4]:
